@@ -34,7 +34,7 @@
 
 - 🌱 I love exploring and learning new things**
 
-- 👨‍💻 All of my projects are available at [my portfolio](ENLACE)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jererg-portfolio.vercel.app/)
 
 - 💬 You can ask me what you need**
 
