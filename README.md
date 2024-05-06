@@ -32,17 +32,17 @@
 
 - 🔭 I’m currently looking for new job opportunities**
 
-- 🌱 I love exploring and learning new things**
+- 🌱 I love exploring and learning new things
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://jererg-portfolio.vercel.app/)
 
-- 💬 You can ask me what you need**
+- 💬 You can ask me what you need
 
 - 📫 How to reach me **jeremiasrg02@gmail.com**
 
 - 📄 Know about my experiences [My C.V](ENLACE)
 
-- ⚡ My favorite motto is: If you can imagine it, you can program it**
+- ⚡ My favorite motto is: If you can imagine it, you can program it
 
 <br>
 <h3 align="left">Connect with me:</h3>
