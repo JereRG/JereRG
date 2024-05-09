@@ -3,7 +3,7 @@
 <p align="center">I'm captivated by the transformative power of computer technology 🌐, constantly amazed by its impact on our lives. From an early age, I've been drawn to software developer, driven by a passion to understand and innovate. I thrive on exploring new tech stacks 💻 and using them to create exciting projects 🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=JereRG&label=Profile%20views&color=0e75b6&style=flat" alt="JereRG" /> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
+ <img src="https://img.shields.io/badge/Languages-Python | Java | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" />
  <img alt="Profile followers" src="https://img.shields.io/github/followers/JereRG">
 </p>
 
