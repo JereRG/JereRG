@@ -58,7 +58,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,materialui,astro" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,materialui,astro,threejs" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,figma,xd,idea,vscode,postman,linux,nginx" />
   </a>
 </p>
 
