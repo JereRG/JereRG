@@ -76,6 +76,13 @@
   </a>
 </p>
 
+- Mobile Development
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,kotlin,swift" />
+  </a>
+</p>
+
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
