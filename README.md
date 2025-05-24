@@ -58,7 +58,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind,materialui,astro" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" />
   </a>
 </p>
 
