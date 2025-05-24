@@ -79,7 +79,7 @@
 - Mobile Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react-native,flutter,dart,kotlin,swift" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift" />
   </a>
 </p>
 
